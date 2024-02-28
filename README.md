@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javi</h1>
 <h3 align="center">A junior frontend developer from Barcelona</h3>
 
-- 🔭 I’m currently working on [my portfolio](www.andreujavier.dev)
+- 🔭 I’m currently working on [my portfolio](piratapachi/piratapachi.github.io)
 
 - 🌱 I’m currently learning **react, tailwind, astro, figma, C, next.js, express.js**
 
