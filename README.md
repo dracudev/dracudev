@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, tailwind, astro, figma, C, next.js, express.js**
 
-- 👨‍💻 All of my projects are available at [andreujavier.dev](www.andreujavier.dev)
+- 👨‍💻 All of my projects are available at <a href="https://www.andreujavier.dev" target="blank">www.andreujavier.dev</a>
 
 - 📫 How to reach me **andreujavier99@gmail.com**
 
