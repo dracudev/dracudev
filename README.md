@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Javi</h1>
 <h3 align="center">A junior frontend developer from Barcelona</h3>
 
-- 🔭 I’m currently working on [my portfolio](andreujavier.dev)
+- 🔭 I’m currently working on [my portfolio](www.andreujavier.dev)
 
 - 🌱 I’m currently learning **react, tailwind, astro, figma, C, next.js, express.js**
 
-- 👨‍💻 All of my projects are available at [andreujavier.dev](andreujavier.dev)
+- 👨‍💻 All of my projects are available at [andreujavier.dev](www.andreujavier.dev)
 
 - 📫 How to reach me **andreujavier99@gmail.com**
 
