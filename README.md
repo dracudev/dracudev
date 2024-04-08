@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.andreujavier.dev" target="blank">my portfolio</a>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JS, Typescript, C, Tailwind, React, SQL**
+- 🌱 I’m currently learning **HTML5, CSS3, JS, C**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.andreujavier.dev" target="blank">www.andreujavier.dev</a>
 
