@@ -2,9 +2,9 @@
 
 - 🔭 I’m studying at 42 Barcelona.
 
-- 🌱 I’m currently learning **HTML5, CSS3, JS, C**
+- 🌱 I’m currently learning **HTML5, CSS3, JS & C**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.andreujavier.dev" target="blank">www.andreujavier.dev</a>
+- 👨‍💻 My portfolio is <a href="https://www.andreujavier.dev" target="_blank">www.andreujavier.dev</a>
 
 - 📫 How to reach me **andreujavier99@gmail.com**
 
