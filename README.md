@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Javi</h1>
-<h3 align="center">And I'm studying to become a developer</h3>
 
-- 🔭 I’m currently working on <a href="https://www.andreujavier.dev" target="blank">my portfolio</a>
+- 🔭 I’m studying at 42 Barcelona.
 
 - 🌱 I’m currently learning **HTML5, CSS3, JS, C**
 
