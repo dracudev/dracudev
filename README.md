@@ -1,31 +1,31 @@
-<h1>Hey! I'm Javi 👾</h1>
+<h1 align="center">Hey! I'm Javi 👾</h1>
 
 <br>
 
-<div>
+<div align="center">
   
-- 🔭 I’m studying at 42 Barcelona
+ 🔭 I’m studying at 42 Barcelona
   
-- 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/libft" target="_blank">**libft**</a>
+ 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/libft" target="_blank">**libft**</a>
 
-- 🧠 I'm learning C and JS
+ 🧠 I'm learning C and JS
 
-- 👨‍💻 You can see my portfolio at <a href="https://www.andreujavier.dev" target="_blank">www.andreujavier.dev</a>
+ 👨‍💻 You can see my portfolio at <a href="https://www.andreujavier.dev" target="_blank">www.andreujavier.dev</a>
 
-- 📫 Reach me at **andreujavier99@gmail.com**
+ 📫 Reach me at **andreujavier99@gmail.com**
 
 <br>
 
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dracudev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=dracudev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
