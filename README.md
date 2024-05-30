@@ -1,18 +1,18 @@
-<h1 align="center">Hey! I'm Javi 👾</h1>
+<h1>Hey! I'm Javi 👾</h1>
 
 <br>
 
-<div align="center">
+<div>
   
- 🔭 I’m studying at 42 Barcelona
+ - 🔭 I’m studying at 42 Barcelona
   
- 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/libft" target="_blank">**libft**</a>
+ - 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/libft" target="_blank">**libft**</a>
 
- 🧠 I'm learning C and JS
+ - 🧠 I'm learning C and JS
 
- 👨‍💻 You can see my portfolio at <a href="https://www.andreujavier.dev" target="_blank">www.andreujavier.dev</a>
+ - 👨‍💻 You can see my portfolio at <a href="https://www.andreujavier.dev" target="_blank">www.andreujavier.dev</a>
 
- 📫 Reach me at **andreujavier99@gmail.com**
+ - 📫 Reach me at **andreujavier99@gmail.com**
 
 <br>
 
