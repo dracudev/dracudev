@@ -8,7 +8,7 @@
   
  - 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/Printf" target="_blank">**Printf**</a>
 
- - 🧠 I'm learning C
+ - 🧠 I'm learning C language
 
  - 👨‍💻 You can see my portfolio at <a href="https://www.andreujavier.dev" target="_blank">www.andreujavier.dev</a>
 
