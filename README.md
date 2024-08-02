@@ -6,7 +6,7 @@
   
  - 🔭 I’m studying at 42 Barcelona
   
- - 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/Get-Next-Line" target="_blank">**Get Next Line**</a>
+ - 👩‍💻 I'm currently working on **Born2toberoot**
 
  - 🧠 I'm learning C and JS
 
