@@ -1,25 +1,26 @@
-<h1>Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h1>
+<h1 align="center">Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h1>
 
-<div>
+<br>
 
+<div align="center">
               
- -  🔭 I’m studying at 42 Barcelona and the IT Academy
+ · 🔭 I’m studying at 42 Barcelona and the IT Academy
   
- - 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/So-Long" target="_blank">**So Long**</a> and <a href="https://github.com/dracudev/S1.2-Bootstrap-SASS" target="_blank">**S1.2-Bootstrap-SASS**</a>
+ · 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/So-Long" target="_blank">**So Long**</a> and <a href="https://github.com/dracudev/S1.2-Bootstrap-SASS" target="_blank">**S1.2-Bootstrap-SASS**</a>
 
- - 🧠 I'm learning C and JS
+ · 🧠 I'm learning C and JS
 
 <br>
 
 </div>
 
-<div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=dracudev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br>
+<br><br>
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
