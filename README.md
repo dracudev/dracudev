@@ -1,29 +1,23 @@
-<h1>Hey! I'm Javi 👾</h1>
-
-<br>
+<h1>Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h1>
 
 <div>
-  
- - 🔭 I’m studying at 42 Barcelona and the IT Academy
+
+              
+ -  🔭 I’m studying at 42 Barcelona and the IT Academy
   
  - 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/So-Long" target="_blank">**So Long**</a> and <a href="https://github.com/dracudev/S1.2-Bootstrap-SASS" target="_blank">**S1.2-Bootstrap-SASS**</a>
 
  - 🧠 I'm learning C and JS
 
- - 👨‍💻 You can see my portfolio at <a href="https://www.andreujavier.dev" target="_blank">www.andreujavier.dev</a>
-
- - 📫 Reach me at **andreujavier99@gmail.com**
-
 <br>
 
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dracudev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=dracudev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+<br>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
