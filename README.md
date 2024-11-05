@@ -6,7 +6,7 @@
               
  · 🔭 I’m studying at 42 Barcelona and the IT Academy
   
- · 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/So-Long" target="_blank">**So Long**</a> and <a href="https://github.com/dracudev/S2.2-Ecommerce" target="_blank">**S2.2-Ecommerce**</a>
+ · 👩‍💻 I'm currently working on <a href="" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S3-Testing-JS" target="_blank">**S3-Testing-JS**</a>
 
  · 🧠 I'm learning C and JS
 
