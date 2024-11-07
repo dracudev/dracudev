@@ -6,7 +6,7 @@
               
  · 🔭 I’m studying at 42 Barcelona and the IT Academy
   
- · 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="[https://github.com/dracudev/S3-Testing-JS](https://github.com/dracudev/S4-TypeScript-API)" target="_blank">**S4-TypeScript-API**</a>
+ · 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S3-Testing-JS" target="_blank">**S4-TypeScript-API**</a>
 
  · 🧠 I'm learning C and JS
 
