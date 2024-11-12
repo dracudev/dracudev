@@ -8,7 +8,7 @@
   
  · 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S5-Digital-Onboarding" target="_blank">**S5-Digital-Onboarding**</a>
 
- · 🧠 I'm learning C and JS
+ · 🧠 I'm learning C, JS and React
 
 <br>
 
