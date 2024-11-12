@@ -4,11 +4,11 @@
 
 <div align="center">
               
- · 🔭 I’m studying at 42 Barcelona and the IT Academy
+ · 🔭 Studying at 42 Barcelona and the IT Academy
   
- · 👩‍💻 I'm currently working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S5-Digital-Onboarding" target="_blank">**S5-Digital-Onboarding**</a>
+ · 👩‍💻 Working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S5-Digital-Onboarding" target="_blank">**S5-Digital-Onboarding**</a>
 
- · 🧠 I'm learning C, JS and React
+ · 🧠 Learning C, JS and React
 
 <br>
 
