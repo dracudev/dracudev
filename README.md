@@ -6,7 +6,7 @@
               
  · 🔭 Studying at 42 Barcelona and the IT Academy
   
- · 👩‍💻 Working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S6-Budgets" target="_blank">**S6-Budgets-App**</a>
+ · 👩‍💻 Working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S6-Budgets" target="_blank">**S6-Budget-App**</a>
 
  · 🧠 Learning C, JS and React
 
