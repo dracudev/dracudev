@@ -1,10 +1,10 @@
 <h1>Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h1>
          
- · 🔭 Studying at 42 Barcelona and the IT Academy
+ - 🔭 Studying at **42 Barcelona** and the **IT Academy**
   
- · 👩‍💻 Working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S6-Budgets" target="_blank">**S6-Budget-App**</a>
+ - 👩‍💻 Working on <a href="https://github.com/dracudev/Push-Swap" target="_blank">**Push Swap**</a> and <a href="https://github.com/dracudev/S6-Budgets" target="_blank">**S6-Budget-App**</a>
 
- · 🧠 Learning C and React
+ - 🧠 Learning `C` and `React`
 
 
   ![dracudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dracudev&theme=tokyonight&hide_border=true)
@@ -26,5 +26,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<br>
+
 ![dracudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dracudev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
