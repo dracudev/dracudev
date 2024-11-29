@@ -1,4 +1,3 @@
-<div align="center">
 <h1>Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h1>
          
  · 🔭 Studying at 42 Barcelona and the IT Academy
@@ -29,5 +28,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
 ![dracudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dracudev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-</div>
