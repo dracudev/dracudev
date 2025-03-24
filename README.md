@@ -1,24 +1,71 @@
-<h1>Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h1>
+<div align="center">
+ <h1>Hey! I'm Javier Andreu <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h1>
+ <p>
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=28&duration=4000&pause=3000&color=00BFFF&center=true&vCenter=true&width=820&height=50&lines=Frontend+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind;'Creativity+is+intelligence+having+fun'" alt="Typing SVG" />
+   </a>
+ </p>
+</div>
 
-  ![dracudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dracudev&theme=tokyonight&hide_border=true)
+## 🚀 About Me
 
-## Languages & Tools
+**Front-end developer** specialized in creating dynamic web applications with React, TypeScript, and Tailwind, taking care of every detail to ensure clean, scalable, and efficient code.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🛠️ Tech Stack
 
-![dracudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dracudev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+### 🔹 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,next,vite&theme=dark" height="40px" alt="Tech Stack" />
+</p>
+
+### 🔹 Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="40px" alt="Backend Stack" />
+</p>
+
+### 🔹 Tools & Other Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,photoshop&theme=dark" height="40px" alt="Tools" />
+</p>
+
+### 🔹 Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,astro,figma&theme=dark" height="40px" alt="Currently Learning" />
+</p>
+
+## 📌 Latest Projects
+
+### 🔹 [Gavilán Shop](https://github.com/dracudev/gavilan-shop)
+- ✨ E-commerce platform for a traditional business with checkout integration
+- 🛠️ Technologies used: React, Tailwind, TypeScript, Next.js, Supabase, Stripe
+- 🔗 [Repository](https://github.com/dracudev/gavilan-shop) | [Demo](https://gavilan-shop.vercel.app/)
+
+### 🔹 [S8-Inprocode](https://github.com/dracudev/S8-Inprocode)
+- ✨ Web dashboard with interactive map, calendar, and charts, powered by a Node.js API
+- 🛠️ Technologies used: React, Tailwind, TypeScript, Node.js, Express, MySQL
+- 🔗 [Repository](https://github.com/dracudev/S8-Inprocode) | [Demo](https://s8-inprocode-frontend.vercel.app/)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/dracudev">
+    <img src="https://github-readme-stats.vercel.app/api?username=dracudev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=dracudev&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/javier-andreu-peralta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andreujavier99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+Thanks for visiting my profile! 😊
+
