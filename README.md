@@ -1,21 +1,23 @@
-<div align="center">
- <h1>Hey! I'm Javier Andreu <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h1>
+<div align="left">
+  <h1><code color='green'>Hey! I'm Javier Andreu </code> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h1>
  <p>
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=28&duration=4000&pause=3000&color=00BFFF&center=true&vCenter=true&width=820&height=50&lines=Frontend+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind;'Creativity+is+intelligence+having+fun'" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=28&duration=4000&pause=3000&color=9737cb&center=false&vCenter=false&width=820&height=50&lines=Frontend+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind;'Creativity+is+intelligence+having+fun'" alt="Typing SVG" />
    </a>
  </p>
 </div>
 
 ## 🚀 About Me
 
-**Front-end developer** specialized in creating dynamic web applications with React, TypeScript, and Tailwind, taking care of every detail to ensure clean, scalable, and efficient code.
+**Front-end developer** focused on creating dynamic web applications with **React**, **TypeScript**, and **Tailwind**, taking care of every detail to ensure clean, scalable, and efficient code.
+
+I also have a background in **digital marketing** and **UX**, so I understand the importance of not only developing applications that work well, but also offer an intuitive and optimized user experience.
 
 ## 🛠️ Tech Stack
 
 ### 🔹 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,next,vite&theme=dark" height="40px" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,next,vite&theme=dark" height="40px" alt="Tech Stack" />
 </p>
 
 ### 🔹 Backend & Databases
@@ -25,12 +27,12 @@
 
 ### 🔹 Tools & Other Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,wordpress,photoshop&theme=dark" height="40px" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,wordpress,photoshop&theme=dark" height="40px" alt="Tools" />
 </p>
 
 ### 🔹 Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,astro,figma&theme=dark" height="40px" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=jest,mongodb,astro,figma&theme=dark" height="40px" alt="Currently Learning" />
 </p>
 
 ## 📌 Latest Projects
@@ -40,14 +42,14 @@
 - 🛠️ Technologies used: React, Tailwind, TypeScript, Next.js, Supabase, Stripe
 - 🔗 [Repository](https://github.com/dracudev/gavilan-shop) | [Demo](https://gavilan-shop.vercel.app/)
 
-### 🔹 [S8-Inprocode](https://github.com/dracudev/S8-Inprocode)
+### 🔹 [Regame App](https://github.com/dracudev/S8-Inprocode)
 - ✨ Web dashboard with interactive map, calendar, and charts, powered by a Node.js API
 - 🛠️ Technologies used: React, Tailwind, TypeScript, Node.js, Express, MySQL
 - 🔗 [Repository](https://github.com/dracudev/S8-Inprocode) | [Demo](https://s8-inprocode-frontend.vercel.app/)
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/dracudev">
     <img src="https://github-readme-stats.vercel.app/api?username=dracudev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
@@ -66,6 +68,5 @@
   </a>
 </p>
 
----
 Thanks for visiting my profile! 😊
 
