@@ -2,25 +2,25 @@
   <h1><code color='green'>Hey! I'm Javier Andreu </code> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h1>
  <p>
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=28&duration=4000&pause=3000&color=9737cb&center=false&vCenter=false&width=820&height=50&lines=Frontend+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind;'Creativity+is+intelligence+having+fun'" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=28&duration=4000&pause=3000&color=9737cb&center=false&vCenter=false&width=820&height=50&lines=Front-End+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind;'Creativity+is+intelligence+having+fun'" alt="Typing SVG" />
    </a>
  </p>
 </div>
 
 ## 🚀 About Me
 
-**Front-end developer** focused on creating dynamic web applications with **React**, **TypeScript**, and **Tailwind**, taking care of every detail to ensure clean, scalable, and efficient code.
+**Front-End developer** focused on creating dynamic web applications with **React**, **TypeScript**, and **Tailwind**, taking care of every detail to ensure clean, scalable, and efficient code.
 
 I also have a background in **digital marketing** and **UX**, so I understand the importance of not only developing applications that work well, but also offer an intuitive and optimized user experience.
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend
+### 🔹 Front-End
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,next,vite&theme=dark" height="40px" alt="Tech Stack" />
 </p>
 
-### 🔹 Backend & Databases
+### 🔹 Back-End & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="40px" alt="Backend Stack" />
 </p>
