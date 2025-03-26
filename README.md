@@ -45,7 +45,7 @@ I also have a background in **digital marketing** and **UX**, so I understand th
 ### 🔹 [Regame App](https://github.com/dracudev/S8-Inprocode)
 - ✨ Web dashboard with interactive map, calendar, and charts, powered by a Node.js API
 - 🛠️ Technologies used: React, Tailwind, TypeScript, Node.js, Express, MySQL
-- 🔗 [Repository](https://github.com/dracudev/S8-Inprocode) | [Demo](https://s8-inprocode-frontend.vercel.app/)
+- 🔗 [Repository](https://github.com/dracudev/regame-app) | [Demo](dracudev-regame.vercel.app/)
 
 ## 📊 GitHub Stats
 
