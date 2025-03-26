@@ -22,7 +22,7 @@ I also have a background in **digital marketing** and **UX**, so I understand th
 
 ### 🔹 Back-End & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="40px" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma&theme=dark" height="40px" alt="Backend Stack" />
 </p>
 
 ### 🔹 Tools & Other Technologies
