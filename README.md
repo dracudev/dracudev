@@ -67,6 +67,3 @@ I also have a background in **digital marketing** and **UX**, so I understand th
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-Thanks for visiting my profile! 😊
-
