@@ -1,9 +1,7 @@
 <div align="left">
   <h1><code color='green'>Hey! I'm Javier Andreu </code> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h1>
  <p>
-   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=28&duration=4000&pause=3000&color=9737cb&center=false&vCenter=false&width=820&height=50&lines=Front-End+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind;'Creativity+is+intelligence+having+fun'" alt="Typing SVG" />
-   </a>
+     <img src="https://readme-typing-svg.demolab.com?font=Bytesized&duration=7000&pause=2000&color=8734F7&width=820&height=50&lines=Front-End+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
  </p>
 </div>
 
@@ -37,15 +35,15 @@ I also have a background in **digital marketing** and **UX**, so I understand th
 
 ## 📌 Latest Projects
 
-### 🔹 [Gavilán Shop](https://github.com/dracudev/gavilan-shop)
+### 🔹 [El Gavilán - Ecommerce](https://github.com/dracudev/gavilan-shop)
 - ✨ E-commerce platform for a traditional business with checkout integration
-- 🛠️ Technologies used: React, Tailwind, TypeScript, Next.js, Supabase, Stripe
+- 🛠️ Technologies used: React, Next, TypeScript, Tailwind, Supabase, Stripe
 - 🔗 [Repository](https://github.com/dracudev/gavilan-shop) | [Demo](https://gavilan-shop.vercel.app/)
 
-### 🔹 [Regame App](https://github.com/dracudev/S8-Inprocode)
-- ✨ Web dashboard with interactive map, calendar, and charts, powered by a Node.js API
-- 🛠️ Technologies used: React, Tailwind, TypeScript, Node.js, Express, MySQL
-- 🔗 [Repository](https://github.com/dracudev/regame-app) | [Demo](dracudev-regame.vercel.app/)
+### 🔹 [Bel'Pom - Corporative Web](https://github.com/dracudev/belpom-web)
+- ✨ Corporate website to present company, product, and service information.
+- 🛠️ Technologies used: Astro, TypeScript, Tailwind
+- 🔗 [Repository](https://github.com/dracudev/belpom-web) 
 
 ## 📊 GitHub Stats
 
