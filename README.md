@@ -1,7 +1,7 @@
 <div align="left">
   <h1><code color='green'>Hey! I'm Javier Andreu </code> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h1>
  <p>
-     <img src="https://readme-typing-svg.demolab.com?font=Bytesized&duration=7000&pause=2000&color=8734F7&width=820&height=50&lines=Front-End+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=500&size=25&duration=7000&pause=2000&color=8734F7&width=850&height=40&lines=Front-End+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
  </p>
 </div>
 
