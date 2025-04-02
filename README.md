@@ -40,8 +40,8 @@ I also have a background in **digital marketing** and **UX**, so I understand th
 - 🛠️ Technologies used: React, Next, TypeScript, Tailwind, Supabase, Stripe
 - 🔗 [Repository](https://github.com/dracudev/gavilan-shop) | [Demo](https://gavilan-shop.vercel.app/)
 
-### 🔹 [Bel'Pom - Corporative Web](https://github.com/dracudev/belpom-web)
-- ✨ Corporate website to present company, product, and service information.
+### 🔹 [Bel'Pom - Corporative Website](https://github.com/dracudev/belpom-web)
+- ✨ Corporate website to present company, product, and service information
 - 🛠️ Technologies used: Astro, TypeScript, Tailwind
 - 🔗 [Repository](https://github.com/dracudev/belpom-web) 
 
