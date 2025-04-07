@@ -9,7 +9,7 @@
 
 **Front-End developer** focused on creating dynamic web applications with **React**, **TypeScript**, and **Tailwind**, taking care of every detail to ensure clean, scalable, and efficient code.
 
-I also have a background in **digital marketing** and **UX**, so I understand the importance of not only developing applications that work well, but also offer an intuitive and optimized user experience.
+I also have a background in digital marketing and UX, which underscores the importance of developing applications that not only work effectively but also provide an intuitive and optimized user experience.
 
 ## 🛠️ Tech Stack
 
