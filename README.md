@@ -11,6 +11,8 @@
 
 I also have a background in digital marketing and UX, which underscores the importance of developing applications that not only work effectively but also provide an intuitive and optimized user experience.
 
+<br>
+
 ## 🛠️ Tech Stack
 
 ### 🔹 Front-End
@@ -33,6 +35,8 @@ I also have a background in digital marketing and UX, which underscores the impo
   <img src="https://skillicons.dev/icons?i=jest,mongodb,astro,figma&theme=dark" height="40px" alt="Currently Learning" />
 </p>
 
+<br>
+
 ## 📌 Latest Projects
 
 ### 🔹 [El Gavilán - Ecommerce](https://github.com/dracudev/gavilan-shop)
@@ -40,10 +44,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 - 🛠️ Technologies used: React, Next, TypeScript, Tailwind, Supabase, Stripe
 - 🔗 [Repository](https://github.com/dracudev/gavilan-shop) | [Demo](https://gavilan-shop.vercel.app/)
 
-### 🔹 [Bel'Pom - Corporative Website](https://github.com/dracudev/belpom-web)
-- ✨ Corporate website to present company, product, and service information
-- 🛠️ Technologies used: Astro, TypeScript, Tailwind
-- 🔗 [Repository](https://github.com/dracudev/belpom-web) 
+<br>
 
 ## 📊 GitHub Stats
 
@@ -55,6 +56,8 @@ I also have a background in digital marketing and UX, which underscores the impo
     <img src="https://streak-stats.demolab.com?user=dracudev&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
+
+<br>
 
 ## 📫 Connect with Me
 <p align="left">
