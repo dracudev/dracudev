@@ -17,17 +17,17 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ### 🔹 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,next,vite&theme=dark" height="40px" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,tailwind,bootstrap&theme=dark" height="40px" alt="Tech Stack" />
 </p>
 
 ### 🔹 Back-End & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma&theme=dark" height="40px" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,sequelize&theme=dark" height="40px" alt="Backend Stack" />
 </p>
 
 ### 🔹 Tools & Other Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,wordpress,photoshop&theme=dark" height="40px" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,photoshop&theme=dark" height="40px" alt="Tools" />
 </p>
 
 ### 🔹 Currently Learning
@@ -43,6 +43,11 @@ I also have a background in digital marketing and UX, which underscores the impo
 - ✨ E-commerce platform for a traditional business with checkout integration
 - 🛠️ Technologies used: React, Next, TypeScript, Tailwind, Supabase, Stripe
 - 🔗 [Repository](https://github.com/dracudev/gavilan-shop) | [Demo](https://gavilan-shop.vercel.app/)
+
+### 🔹 [Learn Hub - Dev Courses Platform](https://github.com/dracudev/learn-hub-app)
+- ✨ Online learning platform for developers with course management and user authentication
+- 🛠️ Technologies used: Node.js, Express, EJS, Sequelize, MySQL, bcrypt, Multer
+- 🔗 [Repository](https://github.com/dracudev/learn-hub-app) | [Demo](https://learn-hub-app-production.up.railway.app/)
 
 <br>
 
