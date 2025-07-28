@@ -47,7 +47,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 ### 🔹 [Learn Hub - Dev Courses Platform](https://github.com/dracudev/learn-hub-app)
 - ✨ Online learning platform for developers with course management and user authentication
 - 🛠️ Technologies used: Node.js, Express, EJS, Sequelize, MySQL, bcrypt, Multer
-- 🔗 [Repository](https://github.com/dracudev/learn-hub-app) | [Demo](https://learn-hub-app-production.up.railway.app/)
+- 🔗 [Repository](https://github.com/dracudev/learn-hub-app) | [Demo](https://learnhub-app.up.railway.app/)
 
 <br>
 
