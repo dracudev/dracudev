@@ -40,17 +40,17 @@ I also have a background in digital marketing and UX, which underscores the impo
 ## 📌 Latest Projects
 
 ### 🔹 [El Gavilán | Ecommerce](https://github.com/dracudev/gavilan-shop)
-- ✨ E-commerce platform for a traditional business with checkout integration
+- 🎩 E-commerce platform for a traditional business with checkout integration
 - 🛠️ Technologies used: React, Next, TypeScript, Tailwind, Supabase, Stripe
 - 🔗 [Repository](https://github.com/dracudev/gavilan-shop) | [Demo](https://gavilan-shop.vercel.app/)
 
 ### 🔹 [Learn Hub | Dev Courses](https://github.com/dracudev/learn-hub-app)
-- ✨ Online learning platform for developers with course management and user authentication
+- 📚 Online learning platform for developers with course management and user authentication
 - 🛠️ Technologies used: Node.js, Express, EJS, Sequelize, MySQL, JWT
 - 🔗 [Repository](https://github.com/dracudev/learn-hub-app) | [Demo](https://learnhub-app.up.railway.app/)
 
 ### 🔹 [CodeCost | Dev Budgeting](https://github.com/dracudev/codecost-app)
-- ✨ Web app for managing web development projects, clients, orders, and payments
+- 💸 Web app for managing web development projects, clients, orders, and payments
 - 🛠️ Technologies used: Node.js, Express, EJS, Prisma ORM, MySQL
 - 🔗 [Repository](https://github.com/dracudev/codecost-app)
 
