@@ -51,7 +51,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ### 🔹 [CodeCost - Dev Budgeting](https://github.com/dracudev/codecost-app)
 - 💸 Web app for managing web development projects, clients, orders, and payments
-- 🛠️ Technologies used: Node.js, Express, EJS, Prisma ORM, MySQL
+- 🛠️ Technologies used: Node.js, Express, EJS, Prisma ORM, MySQL, JWT
 - 🔗 [Repository](https://github.com/dracudev/codecost-app)
 
 <br>
