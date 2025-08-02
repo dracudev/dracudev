@@ -5,7 +5,7 @@
  </p>
 </div>
 
-## 🚀 About Me
+## 👾 About Me
 
 **Front-End developer** focused on creating dynamic web applications with **React**, **TypeScript**, and **Tailwind**, taking care of every detail to ensure clean, scalable, and efficient code.
 
@@ -39,20 +39,48 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ## 📌 Latest Projects
 
-### 🔹 [El Gavilán - Ecommerce](https://github.com/dracudev/gavilan-shop)
-- 🎩 E-commerce platform for a traditional business with checkout integration
-- 🛠️ Technologies used: React, Next, TypeScript, Tailwind, Supabase, Stripe
-- 🔗 [Repository](https://github.com/dracudev/gavilan-shop) | [Demo](https://gavilan-shop.vercel.app/)
+### 🛍️ [El Gavilán](https://github.com/dracudev/gavilan-shop) – *Full-Stack E-commerce Platform*  
+**Live Demo**: [gavilan-shop.vercel.app](https://gavilan-shop.vercel.app)  
+> **Digital storefront for a traditional business with real payment integration**
 
-### 🔹 [Learn Hub - Dev Courses](https://github.com/dracudev/learn-hub-app)
-- 📚 Online learning platform for developers with course management and user authentication
-- 🛠️ Technologies used: Node.js, Express, EJS, Sequelize, MySQL, JWT
-- 🔗 [Repository](https://github.com/dracudev/learn-hub-app) | [Demo](https://learnhub-app.up.railway.app/)
+**Stack**: React, Next.js, TypeScript, Tailwind CSS, Supabase, Stripe  
+**Key Features**:  
+- 🛒 **Full Shopping Experience** – Product listings, cart, and checkout flow  
+- 💳 **Payment Integration** – Seamless Stripe-powered transactions  
+- 🔐 **User Management** – Auth via Supabase with role support  
+- 🌐 **Serverless Deployment** – Vercel-powered frontend and backend  
 
-### 🔹 [CodeCost - Dev Budgeting](https://github.com/dracudev/codecost-app)
-- 💸 Web app for managing web development projects, clients, orders, and payments
-- 🛠️ Technologies used: Node.js, Express, EJS, Prisma ORM, MySQL, JWT
-- 🔗 [Repository](https://github.com/dracudev/codecost-app)
+**Highlights**: Designed to bring a brick-and-mortar business online with a polished UI and real-world payment capabilities.
+
+---
+
+### 📚 [LearnHub](https://github.com/dracudev/learnhub-app) – *Online Dev Learning Platform*  
+**Live Demo**: [learnhub-app.up.railway.app](https://learnhub-app.up.railway.app)  
+> **Course management system for developers with secure access control**
+
+**Stack**: Node.js, Express, EJS, Sequelize, MySQL, JWT  
+**Key Features**:  
+- 🧠 **Dynamic Courses** – Add, edit, and manage learning content  
+- 🔐 **Authentication System** – JWT-based user login and role handling  
+- 🎓 **Student Dashboard** – Track learning progress and enrollments  
+- 📦 **MVC Architecture** – Modular and scalable backend design  
+
+**Highlights**: Built for learning environments with a backend-first approach and real user workflows.
+
+---
+
+### 💼 [CodeCost](https://github.com/dracudev/codecost-app) – *Web Dev Project Budgeting Tool*  
+> **Business-focused app to manage development costs, clients, and billing**
+
+**Stack**: Node.js, Express, EJS, Prisma ORM, MySQL, JWT  
+**Key Features**:  
+- 💰 **Project Estimation** – Define scope, calculate budgets, and assign costs  
+- 👤 **Client & Order Management** – Keep track of customer data and service history  
+- 🔐 **Secure Sessions** – Auth flow with protected routes  
+- 📊 **Dashboard View** – Overview of project and payment status  
+
+**Highlights**: Tailored for freelancers or agencies to streamline client work and simplify payment tracking.
+
 
 <br>
 
