@@ -69,7 +69,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
-### 💼 [CodeCost](https://github.com/dracudev/codecost-app) – *Web Dev Project Budgeting Tool*  
+### 💼 [Blueprint](https://github.com/dracudev/blueprint-app) – *Web Dev Budgeting Tool*  
 > **Business-focused app to manage development costs, clients, and billing**
 
 **Stack**: Node.js, Express, EJS, Prisma ORM, MySQL, JWT  
