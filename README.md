@@ -39,7 +39,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ## 📌 Latest Projects
 
-### 🛍️ [El Gavilán](https://github.com/dracudev/gavilan-shop) – *Full-Stack E-commerce Platform*  
+### 🛍️ [El Gavilán](https://github.com/dracudev/gavilan-shop) – *E-commerce*  
 **Live Demo**: [gavilan-shop.vercel.app](https://gavilan-shop.vercel.app)  
 > **Digital storefront for a traditional business with real payment integration**
 
@@ -54,7 +54,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
-### 📚 [LearnHub](https://github.com/dracudev/learnhub-app) – *Online Dev Learning Platform*  
+### 📚 [LearnHub](https://github.com/dracudev/learnhub-app) – *Dev Learning Platform*  
 **Live Demo**: [learnhub-app.up.railway.app](https://learnhub-app.up.railway.app)  
 > **Course management system for developers with secure access control**
 
@@ -69,7 +69,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
-### 💼 [Blueprint](https://github.com/dracudev/blueprint-app) – *Web Dev Budgeting Tool*  
+### 💼 [Blueprint](https://github.com/dracudev/blueprint-app) – *Dev Budgeting Tool*  
 > **Business-focused app to manage development costs, clients, and billing**
 
 **Stack**: Node.js, Express, EJS, Prisma ORM, MySQL, JWT  
