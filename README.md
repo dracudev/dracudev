@@ -54,6 +54,22 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
+### 🗺️ [Blueprint](https://github.com/dracudev/blueprint-app) – *Dev Budgeting Tool*  
+**Live Demo**: [dracudev-blueprint-app.vercel.app](https://dracudev-blueprint-app.vercel.app/)
+> **Business-focused app to manage development costs, clients, and billing**
+
+
+**Stack**: Node.js, Express, EJS, Prisma ORM, MySQL, JWT  
+**Key Features**:  
+- 💰 **Project Estimation** – Define scope, calculate budgets, and assign costs  
+- 👤 **Client & Order Management** – Keep track of customer data and service history  
+- 🔐 **Secure Sessions** – Auth flow with protected routes  
+- 📊 **Dashboard View** – Overview of project and payment status  
+
+**Highlights**: Tailored for freelancers or agencies to streamline client work and simplify payment tracking.
+
+---
+
 ### 📚 [LearnHub](https://github.com/dracudev/learnhub-app) – *Dev Learning Platform*  
 **Live Demo**: [learnhub-app.up.railway.app](https://learnhub-app.up.railway.app)  
 > **Course management system for developers with secure access control**
@@ -66,21 +82,6 @@ I also have a background in digital marketing and UX, which underscores the impo
 - 📦 **MVC Architecture** – Modular and scalable backend design  
 
 **Highlights**: Built for learning environments with a backend-first approach and real user workflows.
-
----
-
-### 💼 [Blueprint](https://github.com/dracudev/blueprint-app) – *Dev Budgeting Tool*  
-> **Business-focused app to manage development costs, clients, and billing**
-
-**Stack**: Node.js, Express, EJS, Prisma ORM, MySQL, JWT  
-**Key Features**:  
-- 💰 **Project Estimation** – Define scope, calculate budgets, and assign costs  
-- 👤 **Client & Order Management** – Keep track of customer data and service history  
-- 🔐 **Secure Sessions** – Auth flow with protected routes  
-- 📊 **Dashboard View** – Overview of project and payment status  
-
-**Highlights**: Tailored for freelancers or agencies to streamline client work and simplify payment tracking.
-
 
 <br>
 
