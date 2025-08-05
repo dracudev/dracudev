@@ -22,7 +22,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ### 🔹 Back-End & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,sequelize&theme=dark" height="40px" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,prisma,sequelize,supabase,firebase&theme=dark" height="40px" alt="Backend Stack" />
 </p>
 
 ### 🔹 Tools & Other Technologies
@@ -59,7 +59,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 > **Business-focused app to manage development costs, clients, and billing**
 
 
-**Stack**: Node.js, Express, EJS, Prisma ORM, MySQL, JWT  
+**Stack**: Node.js, Express, EJS, Prisma, Supabase, JWT
 **Key Features**:  
 - 💰 **Project Estimation** – Define scope, calculate budgets, and assign costs  
 - 👤 **Client & Order Management** – Keep track of customer data and service history  
