@@ -60,6 +60,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 
 **Stack**: Node.js, Express, EJS, Prisma, Supabase, JWT
+
 **Key Features**:  
 - 💰 **Project Estimation** – Define scope, calculate budgets, and assign costs  
 - 👤 **Client & Order Management** – Keep track of customer data and service history  
