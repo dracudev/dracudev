@@ -54,7 +54,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
-### 🗺️ Blueprint – *Dev Budgeting Tool*  
+### 🗺️ Blueprint – *Budgeting Tool*  
 **[[Demo](https://dracudev-blueprint-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/blueprint-app)]**  
 > **Business-focused app to manage development costs, clients, and billing**
 
@@ -69,7 +69,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
-### 📚 LearnHub – *Dev Learning Platform*  
+### 📚 LearnHub – *Learning Platform*  
 **[[Demo](https://dracudev-learnhub-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/learnhub-app)]**  
 > **Course management system for developers with secure access control**
 
