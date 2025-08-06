@@ -27,7 +27,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ### 🔹 Tools & Other Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,wordpress,photoshop&theme=dark" height="40px" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress,photoshop&theme=dark" height="40px" alt="Tools" />
 </p>
 
 ### 🔹 Currently Learning
