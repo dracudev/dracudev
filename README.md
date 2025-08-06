@@ -39,8 +39,8 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ## 📌 Latest Projects
 
-### 🛍️ [El Gavilán](https://github.com/dracudev/gavilan-shop) – *E-commerce*  
-**Live Demo**: [gavilan-shop.vercel.app](https://gavilan-shop.vercel.app)  
+### 🛍️ El Gavilán – *E-commerce*  
+**[[Demo](https://gavilan-shop.vercel.app)]**  **[[Repository](https://github.com/dracudev/gavilan-shop)]**  
 > **Digital storefront for a traditional business with real payment integration**
 
 **Stack**: React, Next.js, TypeScript, Tailwind CSS, Supabase, Stripe  
@@ -54,13 +54,11 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
-### 🗺️ [Blueprint](https://github.com/dracudev/blueprint-app) – *Dev Budgeting Tool*  
-**Live Demo**: [dracudev-blueprint-app.vercel.app](https://dracudev-blueprint-app.vercel.app/)
+### 🗺️ Blueprint – *Dev Budgeting Tool*  
+**[[Demo](https://dracudev-blueprint-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/blueprint-app)]**  
 > **Business-focused app to manage development costs, clients, and billing**
 
-
-**Stack**: Node.js, Express, EJS, Prisma, Supabase, JWT
-
+**Stack**: Node.js, Express, EJS, Prisma, Supabase, JWT  
 **Key Features**:  
 - 💰 **Project Estimation** – Define scope, calculate budgets, and assign costs  
 - 👤 **Client & Order Management** – Keep track of customer data and service history  
@@ -71,8 +69,8 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
-### 📚 [LearnHub](https://github.com/dracudev/learnhub-app) – *Dev Learning Platform*  
-**Live Demo**: [learnhub-app.up.railway.app](https://learnhub-app.up.railway.app)  
+### 📚 LearnHub – *Dev Learning Platform*  
+**[[Demo](https://dracudev-learnhub-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/learnhub-app)]**  
 > **Course management system for developers with secure access control**
 
 **Stack**: Node.js, Express, EJS, Sequelize, MySQL, JWT  
@@ -83,6 +81,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 - 📦 **MVC Architecture** – Modular and scalable backend design  
 
 **Highlights**: Built for learning environments with a backend-first approach and real user workflows.
+
 
 <br>
 
