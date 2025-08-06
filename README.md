@@ -58,7 +58,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 **[[Demo](https://dracudev-blueprint-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/blueprint-app)]**  
 > **Business-focused app to manage development costs, clients, and billing**
 
-**Stack**: Node.js, Express, EJS, Prisma, Supabase, JWT  
+**Stack**: Node.js, Express, EJS, Prisma, Supabase
 **Key Features**:  
 - 💰 **Project Estimation** – Define scope, calculate budgets, and assign costs  
 - 👤 **Client & Order Management** – Keep track of customer data and service history  
@@ -73,7 +73,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 **[[Demo](https://dracudev-learnhub-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/learnhub-app)]**  
 > **Course management system for developers with secure access control**
 
-**Stack**: Node.js, Express, EJS, Sequelize, Neon, JWT  
+**Stack**: Node.js, Express, EJS, Sequelize, Neon
 **Key Features**:  
 - 🧠 **Dynamic Courses** – Add, edit, and manage learning content  
 - 🔐 **Authentication System** – JWT-based user login and role handling  
