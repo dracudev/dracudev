@@ -73,7 +73,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 **[[Demo](https://dracudev-learnhub-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/learnhub-app)]**  
 > **Course management system for developers with secure access control**
 
-**Stack**: Node.js, Express, EJS, Sequelize, MySQL, JWT  
+**Stack**: Node.js, Express, EJS, Sequelize, Neon, JWT  
 **Key Features**:  
 - 🧠 **Dynamic Courses** – Add, edit, and manage learning content  
 - 🔐 **Authentication System** – JWT-based user login and role handling  
