@@ -11,7 +11,7 @@
 
 I also have a background in digital marketing and UX, which underscores the importance of developing applications that not only work effectively but also provide an intuitive and optimized user experience.
 
-<br>
+<br> 
 
 ## 🛠️ Tech Stack
 
