@@ -1,8 +1,20 @@
-<div align="left">
-  <h1><code color='green'>Hey! I'm Javier Andreu </code> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h1>
- <p>
-     <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=500&size=25&duration=7000&pause=2000&color=8734F7&width=850&height=40&lines=Front-End+Developer+%7C+React+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
- </p>
+![dracudev](banner.png)
+
+<div align="center">
+  
+  <a href="https://www.dracu.dev" target="_blank">
+    <img src="https://img.shields.io/badge/dracu.dev-6C5CE7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://dracu.dev/cv-javier-andreu.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume/CV-2C3E50?style=for-the-badge&logo=readme&logoColor=white" alt="Resume/CV" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/dracudev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andreujavier99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 ## 👾 About Me
@@ -54,7 +66,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 
 ---
 
-### 🗺️ Blueprint – *Budgeting Tool*  
+### 🗺️ Blueprint – *Project Management*  
 **[[Demo](https://dracudev-blueprint-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/blueprint-app)]**  
 > **Business-focused app to manage development costs, clients, and billing**
 
@@ -96,14 +108,3 @@ I also have a background in digital marketing and UX, which underscores the impo
   </a>
 </p>
 
-<br>
-
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/javier-andreu-peralta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:andreujavier99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
