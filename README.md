@@ -55,7 +55,8 @@ I also have a background in digital marketing and UX, which underscores the impo
 **[[Demo](https://gavilan-shop.vercel.app)]**  **[[Repository](https://github.com/dracudev/gavilan-shop)]**  
 > **Digital storefront for a traditional business with real payment integration**
 
-**Stack**: React, Next.js, TypeScript, Tailwind CSS, Supabase, Stripe  
+**Stack**: React, Next.js, TypeScript, Tailwind CSS, Supabase, Stripe
+
 **Key Features**:  
 - 🛒 **Full Shopping Experience** – Product listings, cart, and checkout flow  
 - 💳 **Payment Integration** – Seamless Stripe-powered transactions  
@@ -71,6 +72,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 > **Business-focused app to manage development costs, clients, and billing**
 
 **Stack**: Node.js, Express, EJS, Prisma, Supabase
+
 **Key Features**:  
 - 💰 **Project Estimation** – Define scope, calculate budgets, and assign costs  
 - 👤 **Client & Order Management** – Keep track of customer data and service history  
@@ -86,6 +88,7 @@ I also have a background in digital marketing and UX, which underscores the impo
 > **Course management system for developers with secure access control**
 
 **Stack**: Node.js, Express, EJS, Sequelize, Neon
+
 **Key Features**:  
 - 🧠 **Dynamic Courses** – Add, edit, and manage learning content  
 - 🔐 **Authentication System** – JWT-based user login and role handling  
