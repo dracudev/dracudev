@@ -71,23 +71,6 @@ I also have a background in **digital marketing** and **UX**, which underscores 
 
 **Highlights**: Tailored for freelancers or agencies to streamline client work and simplify payment tracking.
 
----
-
-### 📚 LearnHub – *Learning Platform*  
-**[[Demo](https://dracudev-learnhub-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/learnhub-app)]**  
-> **Course management system for developers with secure access control**
-
-**Stack**: Node.js, Express, EJS, Sequelize, Neon
-
-**Key Features**:  
-- **Dynamic Courses** – Add, edit, and manage learning content  
-- **Authentication System** – JWT-based user login and role handling  
-- **Student Dashboard** – Track learning progress and enrollments  
-- **MVC Architecture** – Modular and scalable backend design  
-
-**Highlights**: Built for learning environments with a backend-first approach and real user workflows.
-
-
 <br>
 
 ## 📊 GitHub Stats
