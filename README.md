@@ -3,12 +3,12 @@
 <div align="center">
   
   <a href="https://www.dracu.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vfairs&logoColor=white" alt="Portfolio" />
     </a>
   
   <a href="https://www.linkedin.com/in/dracudev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" alt="LinkedIn" />
+</a>
   
   <a href="mailto:andreujavier99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -32,10 +32,10 @@ I also have a background in **digital marketing** and **UX**, which underscores 
 
 | Category | Technologies |
 |----------|-------------|
-| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,tailwind,bootstrap&theme=dark" height="40px" alt="Frontend Technologies" /> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,tailwind&theme=dark" height="40px" alt="Frontend Technologies" /> |
 | **Back-End & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,prisma,sequelize,supabase,firebase&theme=dark" height="40px" alt="Backend Technologies" /> |
 | **Tools & Other Technologies** | <img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress,photoshop&theme=dark" height="40px" alt="Tools and Other Technologies" /> |
-| **Currently Learning** | <img src="https://skillicons.dev/icons?i=jest,mongodb,astro,figma&theme=dark" height="40px" alt="Currently Learning" /> |
+| **Currently Learning** | <img src="https://skillicons.dev/icons?i=jest,astro,figma,nestjs,docker&theme=dark" height="40px" alt="Currently Learning" /> |
 
 <br>
 
