@@ -32,10 +32,10 @@ I also have a background in **digital marketing** and **UX**, which underscores 
 
 | Category | Technologies |
 |----------|-------------|
-| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,tailwind&theme=dark" height="40px" alt="Frontend Technologies" /> |
-| **Back-End & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,prisma,sequelize,supabase,firebase&theme=dark" height="40px" alt="Backend Technologies" /> |
-| **Tools & Other Technologies** | <img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress,photoshop&theme=dark" height="40px" alt="Tools and Other Technologies" /> |
-| **Currently Learning** | <img src="https://skillicons.dev/icons?i=jest,astro,figma,nestjs,docker&theme=dark" height="40px" alt="Currently Learning" /> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,astro,tailwind&theme=dark" height="40px" alt="Frontend Technologies" /> |
+| **Back-End & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgresql,prisma,sequelize,supabase&theme=dark" height="40px" alt="Backend Technologies" /> |
+| **Tools & Other Technologies** | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,wordpress,photoshop&theme=dark" height="40px" alt="Tools and Other Technologies" /> |
+| **Currently Learning** | <img src="https://skillicons.dev/icons?i=jest,figma,graphql&theme=dark" height="40px" alt="Currently Learning" /> |
 
 <br>
 
