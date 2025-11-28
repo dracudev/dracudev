@@ -22,9 +22,14 @@
 
 ## 👾 About Me
 
-**Front-End developer** focused on creating dynamic web applications with **React**, **TypeScript**, and **Tailwind**, taking care of every detail to ensure clean, scalable, and efficient code.
+In the tech world, **being bilingual is key**. And I'm not talking about languages.
 
-I also have a background in **digital marketing** and **UX**, which underscores the importance of developing applications that not only work effectively but also provide an intuitive and optimized user experience.
+**Marketing** is about conversion. **Development** is about components.
+And often, they don't understand each other.
+
+Thanks to my background in **marketing and UX**, I understand **business strategy**.  
+As a developer, I **execute it with clean, high-performance code**.
+
 
 <br>
 
