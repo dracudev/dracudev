@@ -24,11 +24,11 @@
 
 In the tech world, **being bilingual is key**. And I'm not talking about languages.
 
-**Marketing** is about conversion. **Development** is about components.
-And often, they don't understand each other.
+**Marketing** focuses on conversion. **Development** focuses on implementation.
+And often, **they don't understand each other**.
 
-Thanks to my background in **marketing and UX**, I understand **business strategy**.  
-As a developer, I **execute it with clean, high-performance code**.
+With my background in **marketing and UX**, I understand **business strategy**.  
+As a developer, I **translate that strategy into clean, high-performance code**.
 
 
 <br>
