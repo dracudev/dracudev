@@ -46,7 +46,39 @@ As a developer, I **translate that strategy into clean, high-performance code**.
 
 ## 📌 Latest Projects
 
-### 🛍️ El Gavilán – *E-commerce*  
+### 🎍 CG Aesthetics – *Spa Website*  
+**[[Web](https://www.carmeng-beauty.com/)]**  **[[Repository](https://github.com/dracudev/cg-aesthetics-wp)]**  
+> **Modern luxury spa website built with Headless WordPress (GraphQL API) and Astro for SEO, performance, and smooth user experience.**
+
+**Stack**: WordPress, Astro, React, TypeScript, Tailwind CSS, Apollo GraphQL
+
+**Key Features**:  
+- **Headless WordPress CMS** – Custom theme, ACF fields, and GraphQL API  
+- **Booking System Integration** – Amelia plugin with real-time appointment booking  
+- **Frontend Performance** – Astro-based static site with interactive React components  
+- **SEO & UX** – Optimized for search engines, responsive design, and accessibility  
+
+**Highlights**: Bridges traditional CMS content management with a modern, high-performance frontend for luxury spa branding.
+
+<br>
+
+### 👾 Questlog – *Social Network*  
+**[[Demo](https://questlog.app)]**  **[[Repository](https://github.com/dracudev/questlog-app)]**  
+> **A social platform where gamers can discover games, write reviews, connect with other players, and build personalized gaming profiles.**
+
+**Stack**: Astro, React, TypeScript, PNPM, NestJS, Prisma, PostgreSQL, Tailwind CSS
+
+**Key Features**:  
+- **Game Discovery** – Detailed catalog, filtering, and external API integration (RAWG, IGDB, Steam)  
+- **Review System** – Ratings, spoilers, comments, likes, and moderation tools  
+- **Social Interactions** – Following system, activity feeds, engagement stats  
+- **Performance & DX** – Static-first frontend with dynamic islands, type-safe API, full testing suite
+
+**Highlights**: Combines static site performance with interactive social features, designed for scalability and long-term growth.
+
+<br>
+
+### 🎩 El Gavilán – *E-commerce*  
 **[[Demo](https://gavilan-shop.vercel.app)]**  **[[Repository](https://github.com/dracudev/gavilan-shop)]**  
 > **Digital storefront for a traditional business with real payment integration**
 
@@ -59,22 +91,6 @@ As a developer, I **translate that strategy into clean, high-performance code**.
 - **Serverless Deployment** – Vercel-powered frontend and backend  
 
 **Highlights**: Designed to bring a brick-and-mortar business online with a polished UI and real-world payment capabilities.
-
----
-
-### 🗺️ Blueprint – *Project Management*  
-**[[Demo](https://dracudev-blueprint-app.vercel.app)]**  **[[Repository](https://github.com/dracudev/blueprint-app)]**  
-> **Business-focused app to manage development costs, clients, and billing**
-
-**Stack**: Node.js, Express, EJS, Prisma, Supabase
-
-**Key Features**:  
-- **Project Estimation** – Define scope, calculate budgets, and assign costs  
-- **Client & Order Management** – Keep track of customer data and service history  
-- **Secure Sessions** – Auth flow with protected routes  
-- **Dashboard View** – Overview of project and payment status  
-
-**Highlights**: Tailored for freelancers or agencies to streamline client work and simplify payment tracking.
 
 <br>
 
