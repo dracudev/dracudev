@@ -37,10 +37,11 @@ As a developer, I **translate that strategy into clean, high-performance code**.
 
 | Category | Technologies |
 |----------|-------------|
-| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,astro,tailwind&theme=dark" height="40px" alt="Frontend Technologies" /> |
-| **Back-End & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgresql,prisma,sequelize,supabase&theme=dark" height="40px" alt="Backend Technologies" /> |
-| **Tools & Other Technologies** | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,wordpress,photoshop&theme=dark" height="40px" alt="Tools and Other Technologies" /> |
-| **Currently Learning** | <img src="https://skillicons.dev/icons?i=jest,figma,graphql&theme=dark" height="40px" alt="Currently Learning" /> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,ts,react,next,astro,tailwind&theme=dark" height="40px" alt="Frontend Technologies" /> |
+| **Back-End & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,prisma,supabase&theme=dark" height="40px" alt="Backend Technologies" /> |
+| **Cloud, DevOps & Testing** | <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,vercel,vitest&theme=dark" height="40px" alt="Cloud, DevOps and Testing Technologies" /> |
+| **Tools & Design** | <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,wordpress&theme=dark" height="40px" alt="Tools and Design Technologies" /> |
+| **Currently Learning** | <img src="https://skillicons.dev/icons?i=php,laravel,aws&theme=dark" height="40px" alt="Currently Learning" /> |
 
 <br>
 
