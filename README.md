@@ -44,31 +44,6 @@ As a developer, I **translate that strategy into clean, high-performance code**.
 
 <br>
 
-## 📌 Featured Projects
-
-> 💡 *Currently developing enterprise solutions in consultancy (NDA protected). Below are personal projects demonstrating my full-stack capabilities.*
-
-### Questlog – *Gaming Social Platform* 
-**[[Demo](https://questlog.app)]** | **[[Repository](https://github.com/dracudev/questlog-app)]**
-* **Stack:** Astro, React, NestJS, Prisma, PostgreSQL, Tailwind
-* **Overview:** Scalable social platform featuring external API aggregations (Steam/RAWG), review engine, and dynamic islands architecture.
-
----
-
-### CG Aesthetics – *Headless Spa Website*
-**[[Web](https://www.carmeng-beauty.com/)]** | **[[Repository](https://github.com/dracudev/cg-aesthetics-wp)]**
-* **Stack:** Headless WordPress, GraphQL, Astro, React, TypeScript
-* **Overview:** High-performance static architecture combined with WP CMS for seamless booking integrations and fast page loads.
-
----
-
-### El Gavilán – *E-commerce Storefront*
-**[[Demo](https://gavilan-shop.vercel.app)]** | **[[Repository](https://github.com/dracudev/gavilan-shop)]**
-* **Stack:** Next.js, React, Supabase, Stripe, Tailwind
-* **Overview:** Complete online storefront with full checkout pipeline, role-based auth, and serverless edge deployment.
-
-<br>
-
 ## 📊 GitHub Stats
 
 <p align="left">
