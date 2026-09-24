@@ -48,10 +48,16 @@ As a developer, I **translate that strategy into clean, high-performance code**.
 
 <p align="left">
   <a href="https://github.com/dracudev">
-    <img src="https://github-readme-stats.vercel.app/api?username=dracudev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img
+      src="https://github-readme-stats-three-lovat-85.vercel.app/api?username=dracudev&show_icons=true&theme=tokyonight"
+      alt="GitHub Stats"
+    />
   </a>
+
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dracudev&theme=tokyonight" alt="GitHub Streak" />
+    <img
+      src="https://dracudev-github-readme-streak-stats.vercel.app/?user=dracudev&theme=tokyonight"
+      alt="GitHub Streak"
+    />
   </a>
 </p>
-
